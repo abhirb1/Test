@@ -9,8 +9,7 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:textSize="17dp"
-        android:freezesText="true"
-        android:visibility="gone"/>
+        />
 
 
 </RelativeLayout>
