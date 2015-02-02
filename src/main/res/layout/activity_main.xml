@@ -11,7 +11,7 @@
     <TextView
         android:text="@string/hello_world"
         android:layout_width="50dp"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:textSize="17dp"
         android:textAlignment="center"
         />
